@@ -1,2 +1,0 @@
-# GitCommit
-Git Commit assignment
